@@ -1,4 +1,4 @@
-# MVD: Enhancing Multi-Class Vulnerability Detectionvia Attention-Based Graph Neural Networks (Under review)
+# MVD: Enhancing Multi-Class Vulnerability Detection via Attention-Based Graph Neural Networks (Under review)
 
 ## Highlights
 - We propose EVD, an enhanced vulnerability detection approach which combines attention-based graph neural networks and multi-class minority oversampling to support vulnerability type prediction.
